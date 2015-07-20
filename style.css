@@ -31,9 +31,9 @@ header{
 }
 
 
-/*.headlinespace {
+.headlinespace {
 	margin: 10px;
-}*/
+}
 
 
 h1 {
@@ -88,9 +88,9 @@ h3 {
 	font-weight: 400;
 	font-size: 12px;
 	line-height: 1.2;
-	color: #00d0b9;
+	color: #ffffff;
 	text-align: center;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	letter-spacing: 1px;
 	padding:0 0 5px 0 ;
 }
